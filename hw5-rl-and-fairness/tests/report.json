@@ -1,0 +1,11 @@
+{
+    "score": 100,
+    "tests_passed": 5,
+    "notes": {
+        "test_bandit_slots": "PASS",
+        "test_bandit_frozen_lake": "PASS",
+        "test_q_learning_slots": "PASS",
+        "test_q_learning_frozen_lake": "PASS",
+        "test_q_learning_deterministic": "PASS"
+    }
+}

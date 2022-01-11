@@ -1,0 +1,39 @@
+{
+    "test_imports": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_netid": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_softmax": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_tiny_dataset": {
+        "weight": 3,
+        "depends": ["test_softmax"]
+    },
+    "test_smoothing": {
+        "weight": 3,
+        "depends": ["test_tiny_dataset"]
+    },
+    "test_without_em": {
+        "weight": 3,
+        "depends": ["test_tiny_dataset"]
+    },
+    "test_em_initialization": {
+        "weight": 1,
+        "depends": ["test_without_em"]
+    },
+    "test_em_likelihood_always_increases": {
+        "weight": 3,
+        "depends": ["test_em_initialization"]
+    },
+    "test_comparison_naive_bayes": {
+        "weight": 1,
+        "depends": ["test_em_likelihood_always_increases",
+                    "test_without_em"]
+    }
+}

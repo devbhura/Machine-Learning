@@ -1,0 +1,11 @@
+{
+    "test_imports": true,
+    "test_tiny_dataset": true,
+    "test_smoothing": true,
+    "test_without_em": true,
+    "test_em_initialization": true,
+    "test_em_likelihood_always_increases": true,
+    "test_comparison_naive_bayes": true,
+    "test_netid": true,
+    "test_softmax": true
+}

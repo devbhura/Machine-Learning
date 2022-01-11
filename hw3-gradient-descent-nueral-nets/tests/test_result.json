@@ -1,0 +1,14 @@
+{
+    "test_imports": true,
+    "test_gradient_descent_blobs": true,
+    "test_gradient_descent_mnist_binary": true,
+    "test_hinge_loss_forward": true,
+    "test_hinge_loss_backward": true,
+    "test_squared_loss_forward": true,
+    "test_squared_loss_backward": true,
+    "test_netid": true,
+    "test_l1_regularization_forward": true,
+    "test_l1_regularization_backward": true,
+    "test_l2_regularization_forward": true,
+    "test_l2_regularization_backward": true
+}

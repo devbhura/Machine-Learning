@@ -1,0 +1,30 @@
+{
+    "test_imports": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_netid": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_bandit_slots": {
+        "weight": 20,
+        "depends": []
+    },
+    "test_q_learning_slots": {
+        "weight": 20,
+        "depends": []
+    },
+    "test_bandit_frozen_lake": {
+        "weight": 10,
+        "depends": []
+    },
+    "test_q_learning_frozen_lake": {
+        "weight": 20,
+        "depends": []
+    },
+    "test_q_learning_deterministic": {
+        "weight": 30,
+        "depends": []
+    }
+}

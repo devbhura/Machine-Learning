@@ -1,0 +1,16 @@
+{
+    "score": 100,
+    "tests_passed": 10,
+    "notes": {
+        "test_gradient_descent_blobs": "PASS",
+        "test_gradient_descent_mnist_binary": "PASS",
+        "test_hinge_loss_forward": "PASS",
+        "test_hinge_loss_backward": "PASS",
+        "test_squared_loss_forward": "PASS",
+        "test_squared_loss_backward": "PASS",
+        "test_l1_regularization_forward": "PASS",
+        "test_l1_regularization_backward": "PASS",
+        "test_l2_regularization_forward": "PASS",
+        "test_l2_regularization_backward": "PASS"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "test_imports": true,
+    "test_bandit_slots": true,
+    "test_bandit_frozen_lake": true,
+    "test_netid": true,
+    "test_q_learning_slots": true,
+    "test_q_learning_frozen_lake": true,
+    "test_q_learning_deterministic": true
+}
