@@ -1,0 +1,8 @@
+
+#for completing assignment
+numpy
+matplotlib
+
+#for running test cases only:
+pytest
+sklearn

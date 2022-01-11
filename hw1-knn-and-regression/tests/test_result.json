@@ -1,0 +1,12 @@
+{
+    "test_k_nearest_neighbor": true,
+    "test_mean_squared_error": true,
+    "test_imports": false,
+    "test_polynomial_regression": true,
+    "test_generate_regression_data": true,
+    "test_a_imports": true,
+    "test_netid": true,
+    "test_euclidean_distances": true,
+    "test_manhattan_distances": true,
+    "test_aggregators": true
+}

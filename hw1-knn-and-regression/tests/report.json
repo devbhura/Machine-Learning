@@ -1,0 +1,13 @@
+{
+    "score": 100,
+    "tests_passed": 7,
+    "notes": {
+        "test_k_nearest_neighbor": "PASS",
+        "test_mean_squared_error": "PASS",
+        "test_polynomial_regression": "PASS",
+        "test_generate_regression_data": "PASS",
+        "test_euclidean_distances": "PASS",
+        "test_manhattan_distances": "PASS",
+        "test_aggregators": "PASS"
+    }
+}
